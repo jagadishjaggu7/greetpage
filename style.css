@@ -1,0 +1,171 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+
+h5{
+    font-size: 1.4rem;
+}
+.background-img{
+    background-image:url(./images/img-3.jpg);
+    background-size: cover;
+    height: 740px;;
+}
+.navbarlinks{
+    color:rgb(40, 62, 210);
+    font-weight:bold;
+}
+.nav-tabs {
+    background-color:whitesmoke;
+    border-radius:10px;
+    border-style: none;
+    border: 0.5px solid ;
+}
+.menuhover:hover {
+    background-color: rgb(244, 234, 243);
+    opacity: 5;
+    color:black;
+    border-radius: 15px;
+    }
+.bodycolor{
+    background-color: rgb(233, 147, 147);
+}
+.breadcrumb-textstyle {
+    font-weight:bolder;
+}
+.cards-header-background{
+    background-color: rgb(230, 71, 232);
+}
+.cards-body-background{
+    background-color: rgb(79, 221, 240);
+}
+/* .container col-4, h6,h2{
+    color:white;
+} */
+.margin-top{
+    margin-top: 4%;
+
+}
+.padding{
+    padding:2%;
+}
+.border-radius {
+    border-radius:15px 15px;
+}
+hr{
+    border:2px solid salmon;
+}
+.text-center {
+    text-align: center;
+}
+.button-decorate {
+    border:2px solid black;
+    background-color:rgb(244, 160, 57);
+    
+}
+.bac{
+    background-image:url(./images/company.jpg);
+}
+.text-white {
+    color: white;
+    
+}
+.footer-background {
+    background-image:url(./images/worldmap.jpg);
+    background-size: cover;
+    width: 1550px;
+}
+.footer-padding {
+    padding-top: 50px;
+}
+.footer-padding-bottom {
+    padding-bottom:20px;
+}
+.footer-textalign {
+    list-style-type: none;
+    text-align: left;
+}
+.footer-text-whitebold{
+    color:white;
+    font-weight:bold;
+}
+.last-footer-text-decoration {
+    background-color: rgb(104, 100, 100);
+     text-align: center;
+     padding:50px;
+}
+.link-decoration {
+    text-decoration: none;
+    color: rgb(50, 223, 223);
+} 
+/* styles for social media icons. */
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+/* .fa:hover {
+    opacity: 0.7;
+} */
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+/* ------------------------------------------------------- */
+.icon-text{
+    color:white;
+    text-decoration:none;
+}
+/* ------------------------------------------------------------------------ */
+/* company page styles */
+.company-background-img{
+    background-image:url(./images/companypageimg.jpg);
+    background-size:contain;
+    background-repeat: no-repeat;
+    height: 740px;
+}
+
+.company-text-whitebold{
+    color:white;
+    font-weight:1000;
+    font-size:x-large;
+}
+/* ---------------------------------------------------------- */
+/* services page */
+.services-text-decoration{
+    color: white;
+    font-weight: 700;
+
+}
+.card-background-img {
+    color: white;
+    background-size: cover;
+
+}
+.services-text-whitebold{
+    color:white;
+    font-weight:1000;
+    font-size:x-large;
+}
+
+/* ------------------------------------------------ */
+
+.hireus{
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 20px;
+    font-size:50px;
+    
+}
